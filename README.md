@@ -1,6 +1,6 @@
 # Custom data visualizations by email
 
-This project was developed to send relevant data teasers by email. The script allows sending by email some graphs with data pertained to universities that are similar to the characteristics of the recipient.  The algorithm is placed in a parameterized RMarkdown file that produces a blastula email.
+This project was developed to send relevant data teasers by email. The script allows sending by email some graphs with data pertained to universities that are similar to the characteristics of the recipient.  The algorithm is placed in a parameterized RMarkdown file that produces a blastula email. Here is some example of an email: https://olgashldrr.github.io/custom_data-viz_by_email/test.html
 
 # Decision tree
 
